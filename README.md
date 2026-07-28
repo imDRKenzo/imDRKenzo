@@ -34,6 +34,8 @@ Here are the tools and technologies I have practical experience with:
 ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=flat-square&logo=postgresql&logoColor=white)
 ![Prisma](https://img.shields.io/badge/Prisma-3982CE?style=flat-square&logo=Prisma&logoColor=white)
 
+<br>
+
 **Hardware & Infrastructure**<br>
 ![Raspberry Pi](https://img.shields.io/badge/-RaspberryPi-C51A4A?style=flat-square&logo=Raspberry-Pi)
 ![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=flat-square&logo=Arduino&logoColor=white)
@@ -41,6 +43,8 @@ Here are the tools and technologies I have practical experience with:
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=flat-square&logo=github&logoColor=white)
 ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=flat-square&logo=vercel&logoColor=white)
 ![Railway](https://img.shields.io/badge/Railway-131415?style=flat-square&logo=railway&logoColor=white)
+
+<br>
 
 **Environments & AI Tools**<br>
 ![VS Code](https://img.shields.io/badge/VS_Code-0078D4?style=flat-square&logo=visual%20studio%20code&logoColor=white)
@@ -53,8 +57,12 @@ Here are the tools and technologies I have practical experience with:
 
 ### 🚀 Key Projects
 
-> **📦 OPIS & OASIS (Inventory Systems)**<br>
-> Collaborated with a team to develop full-stack inventory platforms for PLGU Nueva Vizcaya and the DICT. We implemented role-based access control and automated reporting to help streamline their workflows.<br>
+> **📦 [Online Provincial Inventory System (OPIS)](https://github.com/imDRKenzo/OPIS)**<br>
+> Led the full-stack development of an inventory management platform for PLGU Nueva Vizcaya. Implemented role-based access control (RBAC) and automated reporting to streamline government workflows.<br>
+> *Tech Stack: Next.js, NestJS, TypeScript, PostgreSQL, Prisma*
+
+> **📦 [Office Asset Services Inventory System (OASIS)](https://github.com/imDRKenzo/OASIS)**<br>
+> Developed a full-stack inventory and deployment system for the DICT NVPO. Designed an audit-driven platform featuring real-time asset tracking and automated deployment workflows.<br>
 > *Tech Stack: Next.js, NestJS, TypeScript, PostgreSQL, Prisma*
 
 > **🔔 Automated School Bell System**<br>
@@ -64,7 +72,10 @@ Here are the tools and technologies I have practical experience with:
 ---
 
 <div align="center">
-  <p><b>I'm always open to discussing new projects, technical challenges, or hardware setups. Let's connect!</b></p>
+  <h3>Let's build something awesome together! 🚀</h3>
+  <p>I am always open to discussing new engineering projects, full-stack opportunities, or hardware setups.</p>
+  
+  <br>
   
   <a href="https://www.linkedin.com/in/laurence-sipol">
     <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
@@ -75,19 +86,7 @@ Here are the tools and technologies I have practical experience with:
 
   <br><br>
 
-  <!-- GitHub Stats & Top Languages -->
   <a href="https://github.com/imDRKenzo">
-    <img src="https://github-readme-stats.vercel.app/api?username=imDRKenzo&show_icons=true&theme=radical&hide_border=true&v=1" alt="GitHub Stats" />
+    <img src="https://readme-stats-github.pages.dev/api/top-langs?username=imDRKenzo&theme=dark" alt="Top Languages" />
   </a>
-  <a href="https://github.com/imDRKenzo">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=imDRKenzo&layout=compact&theme=radical&hide_border=true&v=1" alt="Top Languages" />
-  </a>
-  
-  <br>
-
-  <!-- GitHub Streak -->
-  <a href="https://git.io/streak-stats">
-    <img src="https://streak-stats.demolab.com?user=imDRKenzo&theme=radical&hide_border=true" alt="GitHub Streak" />
-  </a>
-
 </div>
