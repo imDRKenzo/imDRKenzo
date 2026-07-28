@@ -66,14 +66,28 @@ Here are the tools and technologies I have practical experience with:
 <div align="center">
   <p><b>I'm always open to discussing new projects, technical challenges, or hardware setups. Let's connect!</b></p>
   
-  <a href="https://www.linkedin.com/in/laurence-sipol"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
-  <a href="mailto:laurencesipol02@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
+  <a href="https://www.linkedin.com/in/laurence-sipol">
+    <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+  </a>
+  <a href="mailto:laurencesipol02@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
+  </a>
 
   <br><br>
 
-  [![GitHub Stats](https://github-readme-stats.vercel.app/api?username=imDRKenzo&show_icons=true&theme=radical&hide_border=true)](https://github.com/imDRKenzo)
+  <!-- GitHub Stats & Top Languages -->
+  <a href="https://github.com/imDRKenzo">
+    <img src="https://github-readme-stats.vercel.app/api?username=imDRKenzo&show_icons=true&theme=radical&hide_border=true&v=1" alt="GitHub Stats" />
+  </a>
+  <a href="https://github.com/imDRKenzo">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=imDRKenzo&layout=compact&theme=radical&hide_border=true&v=1" alt="Top Languages" />
+  </a>
   
-  [![GitHub Streak](https://streak-stats.demolab.com?user=imDRKenzo&theme=radical&hide_border=true)](https://git.io/streak-stats)
+  <br>
+
+  <!-- GitHub Streak -->
+  <a href="https://git.io/streak-stats">
+    <img src="https://streak-stats.demolab.com?user=imDRKenzo&theme=radical&hide_border=true" alt="GitHub Streak" />
+  </a>
 
 </div>
-
