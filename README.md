@@ -7,18 +7,18 @@
 
 Hello! I recently graduated from Nueva Vizcaya State University with a degree in Computer Engineering. I enjoy the process of learning and building—whether that means developing full-stack web applications, maintaining network infrastructures, or tinkering with hardware. I value collaboration, practical problem-solving, and continuous growth as an engineer.
 
-### 👨‍💻 Quick Facts
+### Quick Facts
 
-- 🎓 **Education:** Bachelor of Science in Computer Engineering (BSCpE)
-- 💼 **Background:** Gained hands-on experience in full-stack development and IT support through internships with the DICT and NVSU MIS.
-- 🤝 **Teamwork:** Served as a team leader for my college thesis, successfully delivering an inventory system for our local government.
-- 🏆 **Certifications:** Civil Service Professional Eligible, CompTIA IT Fundamentals+, and Cisco Network Academy (Support & JS).
-- 🌱 **Approach:** I believe in picking the right tool for the job and am always eager to learn new technologies and cybersecurity practices.
-- 🎮 **Off-Screen:** When I'm not coding or inspecting hardware, I enjoy optimizing PC builds and relaxing with games like *Wuthering Waves*.
+- **Education:** Bachelor of Science in Computer Engineering (BSCpE)
+- **Background:** Gained hands-on experience in full-stack development and IT support through internships with the DICT and NVSU MIS.
+- **Teamwork:** Served as a team leader for my college thesis, successfully delivering an inventory system for our local government.
+- **Certifications:** Civil Service Professional Eligible, CompTIA IT Fundamentals+, and Cisco Network Academy (Support & JS).
+- **Approach:** I believe in picking the right tool for the job and am always eager to learn new technologies and cybersecurity practices.
+- **Off-Screen:** When I'm not coding or inspecting hardware, I enjoy optimizing PC builds and relaxing with games like *Wuthering Waves*.
 
 <br>
 
-### 🛠️ Technologies & Tools
+### Technologies & Tools
 
 Here are the tools and technologies I have practical experience with:
 
@@ -55,24 +55,24 @@ Here are the tools and technologies I have practical experience with:
 
 <br>
 
-### 🚀 Key Projects
+### Key Projects
 
-> **📦 [Online Provincial Inventory System (OPIS)](https://github.com/imDRKenzo/OPIS)**<br>
+> **[Online Provincial Inventory System (OPIS)](https://github.com/imDRKenzo/OPIS)**<br>
 > Led the full-stack development of an inventory management platform for PLGU Nueva Vizcaya. Implemented role-based access control (RBAC) and automated reporting to streamline government workflows.<br>
 > *Tech Stack: Next.js, NestJS, TypeScript, PostgreSQL, Prisma*
 
-> **📦 [Office Asset Services Inventory System (OASIS)](https://github.com/imDRKenzo/OASIS)**<br>
+> **[Office Asset Services Inventory System (OASIS)](https://github.com/imDRKenzo/OASIS)**<br>
 > Developed a full-stack inventory and deployment system for the DICT NVPO. Designed an audit-driven platform featuring real-time asset tracking and automated deployment workflows.<br>
 > *Tech Stack: Next.js, NestJS, TypeScript, PostgreSQL, Prisma*
 
-> **🔔 Automated School Bell System**<br>
+> **Automated School Bell System**<br>
 > Designed and programmed a practical hardware solution for a local school. It uses a multi-threaded scheduler to manage daily routines and emergency workflows via hardware relays.<br>
 > *Tech Stack: Raspberry Pi 4, Python, Linux OS*
 
 ---
 
 <div align="center">
-  <h3>Let's build something awesome together! 🚀</h3>
+  <h3>Let's build something awesome together!</h3>
   <p>I am always open to discussing new engineering projects, full-stack opportunities, or hardware setups.</p>
   
   <br>
