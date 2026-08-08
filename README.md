@@ -57,11 +57,11 @@ Here are the tools and technologies I have practical experience with:
 
 ### Key Projects
 
-> **[Online Provincial Inventory System (OPIS)](https://github.com/imDRKenzo/OPIS)**<br>
+> **Online Provincial Inventory System (OPIS)**<br>
 > Led the full-stack development of an inventory management platform for PLGU Nueva Vizcaya. Implemented role-based access control (RBAC) and automated reporting to streamline government workflows.<br>
 > *Tech Stack: Next.js, NestJS, TypeScript, PostgreSQL, Prisma*
 
-> **[Office Asset Services Inventory System (OASIS)](https://github.com/imDRKenzo/OASIS)**<br>
+> **Office Asset Services Inventory System (OASIS)**<br>
 > Developed a full-stack inventory and deployment system for the DICT NVPO. Designed an audit-driven platform featuring real-time asset tracking and automated deployment workflows.<br>
 > *Tech Stack: Next.js, NestJS, TypeScript, PostgreSQL, Prisma*
 
