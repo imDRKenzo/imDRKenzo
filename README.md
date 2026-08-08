@@ -84,9 +84,10 @@ Here are the tools and technologies I have practical experience with:
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
   </a>
 
-  <br><br>
+  <br>
 
-  <a href="https://github.com/imDRKenzo">
-    <img src="https://readme-stats-github.pages.dev/api/top-langs?username=imDRKenzo&theme=dark" alt="Top Languages" />
-  </a>
+  <p align="center">
+  <img src="./github-metrics.svg" alt="My GitHub Metrics" width="100%">
+</p>
+
 </div>
