@@ -10,9 +10,9 @@ Hello! I recently graduated from Nueva Vizcaya State University with a degree in
 ### Quick Facts
 
 - **Education:** Bachelor of Science in Computer Engineering (BSCpE)
-- **Background:** Gained hands-on experience in full-stack development and IT support through internships with the DICT and NVSU MIS.
+- **Background:** Gained 750 hours of hands-on experience in full-stack development and IT support through internships with the DICT NVPO and NVSU MIS.
 - **Teamwork:** Served as a team leader for my college thesis, successfully delivering an inventory system for our local government.
-- **Certifications:** Civil Service Professional Eligible, CompTIA IT Fundamentals+, and Cisco Network Academy (Support & JS).
+- **Certifications:** Career Service Professional Eligibility, CompTIA IT Fundamentals+, Safety Officer 1, multiple Cisco Network Academy certificates, VEX V5 Robotics, and Robotics & Automation.
 - **Approach:** I believe in picking the right tool for the job and am always eager to learn new technologies and cybersecurity practices.
 - **Off-Screen:** When I'm not coding or inspecting hardware, I enjoy optimizing PC builds and relaxing with games like *Wuthering Waves*.
 
@@ -27,10 +27,14 @@ Here are the tools and technologies I have practical experience with:
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=flat-square&logo=javascript&logoColor=%23F7DF1E)
 ![Python](https://img.shields.io/badge/python-3670A0?style=flat-square&logo=python&logoColor=ffdd54)
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=flat-square&logo=openjdk&logoColor=white)
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=flat-square&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=flat-square&logo=css3&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=flat-square&logo=tailwind-css&logoColor=white)
 ![Next JS](https://img.shields.io/badge/Next-black?style=flat-square&logo=next.js&logoColor=white)
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=flat-square&logo=react&logoColor=%2361DAFB)
 ![NestJS](https://img.shields.io/badge/nestjs-%23E0234E.svg?style=flat-square&logo=nestjs&logoColor=white)
 ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=flat-square&logo=node.js&logoColor=white)
+![Socket.io](https://img.shields.io/badge/Socket.io-black?style=flat-square&logo=socket.io&badgeColor=010101)
 ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=flat-square&logo=postgresql&logoColor=white)
 ![Prisma](https://img.shields.io/badge/Prisma-3982CE?style=flat-square&logo=Prisma&logoColor=white)
 
@@ -55,19 +59,26 @@ Here are the tools and technologies I have practical experience with:
 
 <br>
 
+### Internship Experience
+
+- **DICT Nueva Vizcaya Provincial Office (400 Hours):** Developed OASIS on a local server, deployed Starlink equipment for outdoor operations, and provided technical support at major community events.
+- **NVSU MIS - Bambang Campus (350 Hours):** Maintained campus network infrastructure, performed server room cable grooming, installed internet access points, and maintained CCTV systems.
+
+<br>
+
 ### Key Projects
 
 > **Online Provincial Inventory System (OPIS)**<br>
-> Led the full-stack development of an inventory management platform for PLGU Nueva Vizcaya. Implemented role-based access control (RBAC) and automated reporting to streamline government workflows.<br>
-> *Tech Stack: Next.js, NestJS, TypeScript, PostgreSQL, Prisma*
+> Led the thesis team and full-stack development of an inventory management platform for PLGU Nueva Vizcaya. Built an event-driven system featuring session authentication, role-based access control (RBAC), real-time synchronization via Socket.IO, and automated reporting workflows. Developed a Backup & Restore module integrating the Google Drive API, which includes a dedicated UI for administrators to configure automated schedules, manage data retention policies, and monitor real-time backup and restore logs.<br>
+> *Tech Stack: Next.js 15, NestJS 11, TypeScript, PostgreSQL, Prisma, Socket.IO, Puppeteer, Google Drive API*
 
 > **Office Asset Services Inventory System (OASIS)**<br>
-> Developed a full-stack inventory and deployment system for the DICT NVPO. Designed an audit-driven platform featuring real-time asset tracking and automated deployment workflows.<br>
-> *Tech Stack: Next.js, NestJS, TypeScript, PostgreSQL, Prisma*
+> Developed a full-stack inventory and deployment system for the DICT NVPO featuring role-based access control and automated deployment workflows. Built a notification center for asset tracking and integrated file upload capabilities.<br>
+> *Tech Stack: Next.js 16, NestJS 11, TypeScript, PostgreSQL, Prisma, TanStack React Query*
 
-> **Automated School Bell System**<br>
-> Designed and programmed a practical hardware solution for a local school. It uses a multi-threaded scheduler to manage daily routines and emergency workflows via hardware relays.<br>
-> *Tech Stack: Raspberry Pi 4, Python, Linux OS*
+> **Automated Programmable School Bell System**<br>
+> Programmed a Python-based school bell controller featuring a tkinter GUI deployed on a Raspberry Pi 4 Model B. Configured a multi-threaded scheduler to manage routines and emergency workflows, actuating hardware relays via RPi.GPIO.<br>
+> *Tech Stack: Raspberry Pi 4, Python, Linux OS, RPi.GPIO*
 
 ---
 
