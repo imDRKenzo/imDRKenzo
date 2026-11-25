@@ -13,10 +13,10 @@
 <picture><source media="(prefers-color-scheme: dark)" srcset="assets/dark/whoami.svg"><img src="assets/whoami.svg" width="100%" alt="I build government web applications at the Provincial Information Technology Division of PLGU Nueva Vizcaya. I earned a BS in Computer Engineering at Nueva Vizcaya State University and completed 750 internship hours."></picture>
 
 <picture><source media="(prefers-color-scheme: dark)" srcset="assets/dark/s02.svg"><img src="assets/s02.svg" width="100%" alt="02 — Featured Projects"></picture>
-<picture><source media="(prefers-color-scheme: dark)" srcset="assets/dark/projects.svg"><img src="assets/projects.svg" width="100%" alt="Featured projects include LOGIS and IRIS, built at PITD for PLGU Nueva Vizcaya, the OPIS thesis project, OASIS for DICT, and an automated school bell."></picture>
+<picture><source media="(prefers-color-scheme: dark)" srcset="assets/dark/projects.svg"><img src="assets/projects.svg" width="100%" alt="Featured projects include IRIS, my latest project at PITD, followed by LOGIS, the OPIS thesis project, OASIS for DICT, and an automated school bell."></picture>
 
 <picture><source media="(prefers-color-scheme: dark)" srcset="assets/dark/s03.svg"><img src="assets/s03.svg" width="100%" alt="03 — Project Map"></picture>
-<picture><source media="(prefers-color-scheme: dark)" srcset="assets/dark/ecosystem.svg"><img src="assets/ecosystem.svg" width="100%" alt="Animated map connecting my provincial projects LOGIS and IRIS, thesis project OPIS, DICT internship project OASIS, Raspberry Pi school bell, and supporting tools."></picture>
+<picture><source media="(prefers-color-scheme: dark)" srcset="assets/dark/ecosystem.svg"><img src="assets/ecosystem.svg" width="100%" alt="Animated map connecting my provincial projects IRIS and LOGIS, thesis project OPIS, DICT internship project OASIS, Raspberry Pi school bell, and supporting tools."></picture>
 
 <picture><source media="(prefers-color-scheme: dark)" srcset="assets/dark/s04.svg"><img src="assets/s04.svg" width="100%" alt="04 — Experience &amp; Education"></picture>
 <picture><source media="(prefers-color-scheme: dark)" srcset="assets/dark/timeline.svg"><img src="assets/timeline.svg" width="100%" alt="2022 to present. NVSU, Java programming competition, NVSU MIS and DICT internships, graduation, and current work at PITD."></picture>
@@ -44,8 +44,8 @@
 
 I build web applications at the Provincial Information Technology Division (PITD).
 
+- **IRIS — ICT Resources Inventory System.** My latest project at PITD digitizes ICT inventory sheets for devices, accountable personnel, installed software, and sign-offs. It supports guided entry, audited corrections, licensing and subscription reports, and Excel exports.
 - **LOGIS — Logistics, Order, and Goods Inventory System.** I built LOGIS at PITD for the Provincial General Services Office (PGSO). It manages purchase orders, bodega deliveries, received stock, open balances, audit history, and pickup notices.
-- **IRIS — ICT Resources Inventory System.** I built IRIS at PITD to digitize ICT inventory sheets for devices, accountable personnel, installed software, and sign-offs. It supports guided entry, audited corrections, licensing and subscription reports, and Excel exports.
 
 Both systems use Next.js, NestJS, TypeScript, Prisma, and Microsoft SQL Server.
 
@@ -64,4 +64,4 @@ Both systems use Next.js, NestJS, TypeScript, Prisma, and Microsoft SQL Server.
 
 </details>
 
-<picture><source media="(prefers-color-scheme: dark)" srcset="assets/dark/footer.svg"><img src="assets/footer.svg" width="100%" alt="Building LOGIS and IRIS at PLGU Nueva Vizcaya · @imDRKenzo"></picture>
+<picture><source media="(prefers-color-scheme: dark)" srcset="assets/dark/footer.svg"><img src="assets/footer.svg" width="100%" alt="Building IRIS and LOGIS at PLGU Nueva Vizcaya · @imDRKenzo"></picture>

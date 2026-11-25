@@ -1,4 +1,4 @@
-<svg viewBox="0 0 1000 570" fill="none" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="Five projects: LOGIS and IRIS at PITD, OPIS thesis, OASIS at DICT, and a Raspberry Pi school bell">
+<svg viewBox="0 0 1000 570" fill="none" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="Five projects: IRIS and LOGIS at PITD, OPIS thesis, OASIS at DICT, and a Raspberry Pi school bell">
   <style>
     @font-face {
       font-family: "IBM Plex Mono";
@@ -24,16 +24,16 @@
 
   <g class="mono">
     <g class="row r1" transform="translate(0 20)">
-      <text class="title" x="48" y="24">01 / LOGIS / LOGISTICS, ORDER, AND GOODS INVENTORY SYSTEM</text>
-      <text class="copy" x="48" y="49">Built at PITD for the Provincial General Services Office to manage purchase orders and bodega deliveries.</text>
-      <text class="copy" x="48" y="68">Tracks received stock and open balances, with audit history and printable pickup notices.</text>
+      <text class="title" x="48" y="24">01 / IRIS / ICT RESOURCES INVENTORY SYSTEM</text>
+      <text class="copy" x="48" y="49">Built at PITD to digitize device inventories, accountable personnel, installed software, and sign-offs.</text>
+      <text class="copy" x="48" y="68">Supports guided entry, audited corrections, licensing and subscription reports, and Excel exports.</text>
       <text class="meta" x="48" y="87">PLGU NUEVA VIZCAYA · NEXT.JS · NESTJS · TYPESCRIPT · PRISMA · SQL SERVER</text>
       <line class="rule" x1="48" y1="104" x2="952" y2="104"/>
     </g>
     <g class="row r2" transform="translate(0 130)">
-      <text class="title" x="48" y="24">02 / IRIS / ICT RESOURCES INVENTORY SYSTEM</text>
-      <text class="copy" x="48" y="49">Built at PITD to digitize device inventories, accountable personnel, installed software, and sign-offs.</text>
-      <text class="copy" x="48" y="68">Supports guided entry, audited corrections, licensing and subscription reports, and Excel exports.</text>
+      <text class="title" x="48" y="24">02 / LOGIS / LOGISTICS, ORDER, AND GOODS INVENTORY SYSTEM</text>
+      <text class="copy" x="48" y="49">Built at PITD for the Provincial General Services Office to manage purchase orders and bodega deliveries.</text>
+      <text class="copy" x="48" y="68">Tracks received stock and open balances, with audit history and printable pickup notices.</text>
       <text class="meta" x="48" y="87">PLGU NUEVA VIZCAYA · NEXT.JS · NESTJS · TYPESCRIPT · PRISMA · SQL SERVER</text>
       <line class="rule" x1="48" y1="104" x2="952" y2="104"/>
     </g>

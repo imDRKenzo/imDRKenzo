@@ -18,8 +18,8 @@
   <g class="rise a1">
     <text class="mono" x="48" y="42"  font-size="12" fill="var(--accent)" letter-spacing="2">NOW</text>
     <text class="mono" x="136" y="42"  font-size="15" fill="var(--bone)">Provincial Information Technology Division · PLGU Nueva Vizcaya</text>
-    <text class="mono" x="136" y="68"  font-size="14" fill="var(--muted)">Built LOGIS for PGSO’s purchase order and delivery workflows.</text>
-    <text class="mono" x="136" y="90"  font-size="14" fill="var(--muted)">Built IRIS for PITD’s ICT inventory and reporting workflows.</text>
+    <text class="mono" x="136" y="68"  font-size="14" fill="var(--muted)">Built IRIS for PITD’s ICT inventory and reporting workflows.</text>
+    <text class="mono" x="136" y="90"  font-size="14" fill="var(--muted)">Built LOGIS for PGSO’s purchase order and delivery workflows.</text>
   </g>
 
   <g class="rise a2">

@@ -73,7 +73,7 @@
     <circle class="pulse" cx="1060" cy="125" r="4.5" fill="var(--accent)"/>
     <line x1="1060" y1="129" x2="1060" y2="154" stroke="var(--rule)"/>
     <text fill="var(--accent)" class="mono" x="1060" y="172" font-size="11" letter-spacing="2" text-anchor="middle">NOW</text>
-    <text fill="var(--bone)" class="mono" x="1060" y="188" font-size="10.5" letter-spacing="1" text-anchor="middle">PITD · LOGIS &amp; IRIS</text>
+    <text fill="var(--bone)" class="mono" x="1060" y="188" font-size="10.5" letter-spacing="1" text-anchor="middle">PITD · IRIS &amp; LOGIS</text>
   </g>
 
   <g class="m m7">

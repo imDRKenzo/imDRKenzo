@@ -23,7 +23,7 @@
   <text class="mono rise a4" x="174" y="148" font-size="15" fill="var(--bone)">Full-stack development · inventory workflows · IT infrastructure</text>
 
   <text class="mono rise a5" x="48"  y="182" font-size="11" fill="var(--muted)" letter-spacing="2.5">CURRENT</text>
-  <text class="mono rise a5" x="174" y="182" font-size="15" fill="var(--accent)">LOGIS for PGSO · IRIS for PITD</text>
+  <text class="mono rise a5" x="174" y="182" font-size="15" fill="var(--accent)">IRIS for PITD · LOGIS for PGSO</text>
 
   <text class="mono rise a6" x="48"  y="216" font-size="11" fill="var(--muted)" letter-spacing="2.5">CREDENTIALS</text>
   <text class="mono rise a6" x="174" y="216" font-size="15" fill="var(--bone)">Career Service Professional Eligibility · CompTIA IT Fundamentals+</text>
