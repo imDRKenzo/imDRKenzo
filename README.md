@@ -8,17 +8,24 @@
 
 </div>
 
-<picture><source media="(prefers-color-scheme: dark)" srcset="assets/dark/s01.svg"><img src="assets/s01.svg" width="100%" alt="01 — Whoami"></picture>
+<picture><source media="(prefers-color-scheme: dark)" srcset="assets/dark/s01.svg"><img src="assets/s01.svg" width="100%" alt="01 — About Me"></picture>
 <picture><source media="(prefers-color-scheme: dark)" srcset="assets/dark/whoami.svg"><img src="assets/whoami.svg" width="100%" alt="I build government web applications at the Provincial Information Technology Division of PLGU Nueva Vizcaya. I earned a BS in Computer Engineering at Nueva Vizcaya State University and completed 750 internship hours."></picture>
 
-<picture><source media="(prefers-color-scheme: dark)" srcset="assets/dark/s02.svg"><img src="assets/s02.svg" width="100%" alt="02 — System map"></picture>
-<picture><source media="(prefers-color-scheme: dark)" srcset="assets/dark/ecosystem.svg"><img src="assets/ecosystem.svg" width="100%" alt="Animated map connecting my provincial projects LOGIS and IRIS, thesis project OPIS, DICT internship project OASIS, Raspberry Pi school bell, and supporting tools."></picture>
-
-<picture><source media="(prefers-color-scheme: dark)" srcset="assets/dark/s03.svg"><img src="assets/s03.svg" width="100%" alt="03 — Projects"></picture>
+<picture><source media="(prefers-color-scheme: dark)" srcset="assets/dark/s02.svg"><img src="assets/s02.svg" width="100%" alt="02 — Featured Projects"></picture>
 <picture><source media="(prefers-color-scheme: dark)" srcset="assets/dark/projects.svg"><img src="assets/projects.svg" width="100%" alt="Featured projects include LOGIS and IRIS, built at PITD for PLGU Nueva Vizcaya, the OPIS thesis project, OASIS for DICT, and an automated school bell."></picture>
 
-<picture><source media="(prefers-color-scheme: dark)" srcset="assets/dark/s04.svg"><img src="assets/s04.svg" width="100%" alt="04 — Telemetry"></picture>
+<picture><source media="(prefers-color-scheme: dark)" srcset="assets/dark/s03.svg"><img src="assets/s03.svg" width="100%" alt="03 — Project Map"></picture>
+<picture><source media="(prefers-color-scheme: dark)" srcset="assets/dark/ecosystem.svg"><img src="assets/ecosystem.svg" width="100%" alt="Animated map connecting my provincial projects LOGIS and IRIS, thesis project OPIS, DICT internship project OASIS, Raspberry Pi school bell, and supporting tools."></picture>
+
+<picture><source media="(prefers-color-scheme: dark)" srcset="assets/dark/s04.svg"><img src="assets/s04.svg" width="100%" alt="04 — Experience &amp; Education"></picture>
+<picture><source media="(prefers-color-scheme: dark)" srcset="assets/dark/timeline.svg"><img src="assets/timeline.svg" width="100%" alt="2022 to present. NVSU, Java programming competition, NVSU MIS and DICT internships, graduation, and current work at PITD."></picture>
+<picture><source media="(prefers-color-scheme: dark)" srcset="assets/dark/experience.svg"><img src="assets/experience.svg" width="100%" alt="Current work at PITD. DICT internship from March to May 2026. NVSU MIS internship from January to April 2026. BS Computer Engineering, September 2022 to July 2026."></picture>
 <picture><source media="(prefers-color-scheme: dark)" srcset="assets/dark/telemetry.svg"><img src="assets/telemetry.svg" width="100%" alt="Five featured projects, including two at PITD. 750 internship hours total, with 350 at NVSU MIS and 400 at DICT."></picture>
+
+<picture><source media="(prefers-color-scheme: dark)" srcset="assets/dark/s05.svg"><img src="assets/s05.svg" width="100%" alt="05 — Technical Toolkit"></picture>
+<picture><source media="(prefers-color-scheme: dark)" srcset="assets/dark/stack.svg"><img src="assets/stack.svg" width="100%" alt="TypeScript, JavaScript, Python, Java, Next.js, React, Tailwind CSS, NestJS, Node.js, Socket.IO, SQL Server, PostgreSQL, Prisma, Raspberry Pi, Arduino, networking, Git, and GitHub."></picture>
+
+<picture><source media="(prefers-color-scheme: dark)" srcset="assets/dark/s06.svg"><img src="assets/s06.svg" width="100%" alt="06 — GitHub Activity"></picture>
 
 <div align="center">
 
@@ -28,15 +35,6 @@
 </picture>
 
 </div>
-
-<picture><source media="(prefers-color-scheme: dark)" srcset="assets/dark/s05.svg"><img src="assets/s05.svg" width="100%" alt="05 — The route"></picture>
-<picture><source media="(prefers-color-scheme: dark)" srcset="assets/dark/timeline.svg"><img src="assets/timeline.svg" width="100%" alt="2022 to present. NVSU, Java programming competition, NVSU MIS and DICT internships, graduation, and current work at PITD."></picture>
-<picture><source media="(prefers-color-scheme: dark)" srcset="assets/dark/experience.svg"><img src="assets/experience.svg" width="100%" alt="Current work at PITD. DICT internship from March to May 2026. NVSU MIS internship from January to April 2026. BS Computer Engineering, September 2022 to July 2026."></picture>
-
-<picture><source media="(prefers-color-scheme: dark)" srcset="assets/dark/s06.svg"><img src="assets/s06.svg" width="100%" alt="06 — Stack"></picture>
-<picture><source media="(prefers-color-scheme: dark)" srcset="assets/dark/stack.svg"><img src="assets/stack.svg" width="100%" alt="TypeScript, JavaScript, Python, Java, Next.js, React, Tailwind CSS, NestJS, Node.js, Socket.IO, SQL Server, PostgreSQL, Prisma, Raspberry Pi, Arduino, networking, Git, and GitHub."></picture>
-
-<picture><source media="(prefers-color-scheme: dark)" srcset="assets/dark/footer.svg"><img src="assets/footer.svg" width="100%" alt="Building LOGIS and IRIS at PLGU Nueva Vizcaya · @imDRKenzo"></picture>
 
 <details>
 <summary>Read project and experience details</summary>
@@ -59,8 +57,10 @@ Both systems use Next.js, NestJS, TypeScript, Prisma, and Microsoft SQL Server.
 ### Education and experience
 
 - **Nueva Vizcaya State University, Bambang Campus.** BS Computer Engineering, September 2022–July 2026.
-- **DICT Nueva Vizcaya Provincial Office.** 400-hour internship, March–May 2026. Developed OASIS, deployed Starlink, and provided technical support.
 - **NVSU Management Information System, Bambang Campus.** 350-hour internship, January–April 2026. Worked on campus networking, CCTV, and audiovisual support.
+- **DICT Nueva Vizcaya Provincial Office.** 400-hour internship, March–May 2026. Developed OASIS, deployed Starlink, and provided technical support.
 - **Credentials.** Career Service Professional Eligibility, CompTIA IT Fundamentals+, Safety Officer 1, and Cisco Networking Academy coursework.
 
 </details>
+
+<picture><source media="(prefers-color-scheme: dark)" srcset="assets/dark/footer.svg"><img src="assets/footer.svg" width="100%" alt="Building LOGIS and IRIS at PLGU Nueva Vizcaya · @imDRKenzo"></picture>
