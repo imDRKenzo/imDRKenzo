@@ -1,0 +1,39 @@
+<svg viewBox="0 0 1000 370" fill="none" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="Current work at PITD, internships at DICT and NVSU, and computer engineering degree">
+  <style>
+    :root { --bone: #f0f0f0; --muted: #c7c7c7; --dim: #aeaeae; --rule: #999999; --accent: #dddddd; --ghost: #bcbcbc; --ink: #f0f0f0; --paper: #0d1117; --node-bg: #0d1117; --core-bg: #0d1117; }
+    .mono { font-family: ui-monospace, "SFMono-Regular", "SF Mono", Menlo, Consolas, "Liberation Mono", monospace; }
+    .rise { opacity: 0; animation: rise .7s cubic-bezier(.2,.7,.2,1) forwards; }
+    @keyframes rise { from { opacity:0;transform:translateY(8px); } to { opacity:1;transform:translateY(0); } }
+    .a1{animation-delay:.15s} .a2{animation-delay:.35s} .a3{animation-delay:.55s} .a4{animation-delay:.75s}
+    @media (prefers-reduced-motion: reduce) { .rise { animation: none; opacity: 1; } }
+  </style>
+
+  <line x1="120" y1="10" x2="120" y2="360" stroke="var(--rule)" stroke-width="1" opacity=".4"/>
+
+  <g class="rise a1">
+    <text class="mono" x="48" y="42"  font-size="12" fill="var(--accent)" letter-spacing="2">NOW</text>
+    <text class="mono" x="136" y="42"  font-size="15" fill="var(--bone)">Provincial Information Technology Division · PLGU Nueva Vizcaya</text>
+    <text class="mono" x="136" y="68"  font-size="14" fill="var(--muted)">Built LOGIS for PGSO’s purchase order and delivery workflows.</text>
+    <text class="mono" x="136" y="90"  font-size="14" fill="var(--muted)">Built IRIS for PITD’s ICT inventory and reporting workflows.</text>
+  </g>
+
+  <g class="rise a2">
+    <text class="mono" x="48" y="138" font-size="12" fill="var(--accent)" letter-spacing="2">2026</text>
+    <text class="mono" x="136" y="138" font-size="15" fill="var(--bone)">DICT Nueva Vizcaya Provincial Office · Internship · Mar–May</text>
+    <text class="mono" x="136" y="164" font-size="14" fill="var(--muted)">400 hours · developed OASIS and deployed Starlink for field operations.</text>
+    <text class="mono" x="136" y="186" font-size="14" fill="var(--muted)">Provided technical support for government webinars and community events.</text>
+  </g>
+
+  <g class="rise a3">
+    <text class="mono" x="48" y="234" font-size="12" fill="var(--accent)" letter-spacing="2">2026</text>
+    <text class="mono" x="136" y="234" font-size="15" fill="var(--bone)">NVSU MIS · Bambang Campus · Internship · Jan–Apr</text>
+    <text class="mono" x="136" y="260" font-size="14" fill="var(--muted)">350 hours · installed wireless access points and organized server-room cabling.</text>
+    <text class="mono" x="136" y="282" font-size="14" fill="var(--muted)">Maintained campus CCTV and configured audiovisual equipment for events.</text>
+  </g>
+
+  <g class="rise a4">
+    <text class="mono" x="48" y="330" font-size="12" fill="var(--accent)" letter-spacing="2">2022–26</text>
+    <text class="mono" x="136" y="330" font-size="15" fill="var(--bone)">Nueva Vizcaya State University · BS Computer Engineering</text>
+    <text class="mono" x="136" y="356" font-size="14" fill="var(--muted)">Bambang Campus · September 2022–July 2026</text>
+  </g>
+</svg>

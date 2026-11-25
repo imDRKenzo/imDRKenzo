@@ -1,0 +1,53 @@
+<svg viewBox="0 0 1000 570" fill="none" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="Five projects: LOGIS and IRIS at PITD, OPIS thesis, OASIS at DICT, and a Raspberry Pi school bell">
+  <style>
+    :root { --bone: #171717; --muted: #4b4b4b; --dim: #555555; --rule: #777777; --accent: #262626; --ghost: #595959; --ink: #171717; --paper: #ffffff; --node-bg: #ffffff; --core-bg: #ffffff; }
+    .mono { font-family:ui-monospace,"SFMono-Regular","SF Mono",Menlo,Consolas,"Liberation Mono",monospace; }
+    .row { opacity:0; animation:reveal .55s cubic-bezier(.2,.7,.2,1) forwards; }
+    .rule { stroke:var(--ink); stroke-width:1; }
+    .title { fill:var(--ink); font-size:17px; font-weight:700; letter-spacing:.8px; }
+    .copy { fill:var(--ink); font-size:12px; }
+    .meta { fill:var(--ink); font-size:11px; letter-spacing:.4px; }
+    @keyframes reveal { from { opacity:0; } to { opacity:1; } }
+    .r1{animation-delay:.05s}.r2{animation-delay:.10s}.r3{animation-delay:.15s}.r4{animation-delay:.20s}.r5{animation-delay:.25s}
+    @media (prefers-reduced-motion:reduce) { .row { animation:none; opacity:1; } }
+    :root { --ink:#000000; --paper:#FFFFFF; }
+  </style>
+
+  <g class="mono">
+    <g class="row r1" transform="translate(0 20)">
+      <text class="title" x="48" y="24">01 / LOGIS / LOGISTICS, ORDER, AND GOODS INVENTORY SYSTEM</text>
+      <text class="copy" x="48" y="49">Built at PITD for the Provincial General Services Office to manage purchase orders and bodega deliveries.</text>
+      <text class="copy" x="48" y="68">Tracks received stock and open balances, with audit history and printable pickup notices.</text>
+      <text class="meta" x="48" y="87">PLGU NUEVA VIZCAYA · NEXT.JS · NESTJS · TYPESCRIPT · PRISMA · SQL SERVER</text>
+      <line class="rule" x1="48" y1="104" x2="952" y2="104"/>
+    </g>
+    <g class="row r2" transform="translate(0 130)">
+      <text class="title" x="48" y="24">02 / IRIS / ICT RESOURCES INVENTORY SYSTEM</text>
+      <text class="copy" x="48" y="49">Built at PITD to digitize device inventories, accountable personnel, installed software, and sign-offs.</text>
+      <text class="copy" x="48" y="68">Supports guided entry, audited corrections, licensing and subscription reports, and Excel exports.</text>
+      <text class="meta" x="48" y="87">PLGU NUEVA VIZCAYA · NEXT.JS · NESTJS · TYPESCRIPT · PRISMA · SQL SERVER</text>
+      <line class="rule" x1="48" y1="104" x2="952" y2="104"/>
+    </g>
+    <g class="row r3" transform="translate(0 240)">
+      <text class="title" x="48" y="24">03 / OPIS / ONLINE PROVINCIAL INVENTORY SYSTEM</text>
+      <text class="copy" x="48" y="49">Led the thesis team and full-stack development of an inventory platform for PLGU Nueva Vizcaya.</text>
+      <text class="copy" x="48" y="68">Built office-scoped access, real-time updates, requisitions, reporting, and Google Drive backups.</text>
+      <text class="meta" x="48" y="87">THESIS · NEXT.JS · NESTJS · TYPESCRIPT · POSTGRESQL · PRISMA · SOCKET.IO · PUPPETEER · EXCELJS</text>
+      <line class="rule" x1="48" y1="104" x2="952" y2="104"/>
+    </g>
+    <g class="row r4" transform="translate(0 350)">
+      <text class="title" x="48" y="24">04 / OASIS / OFFICE ASSET SERVICES INVENTORY SYSTEM</text>
+      <text class="copy" x="48" y="49">Developed an inventory and deployment system during my DICT Nueva Vizcaya internship.</text>
+      <text class="copy" x="48" y="68">Implemented audit trails, role-based access, deployment workflows, and asset notifications.</text>
+      <text class="meta" x="48" y="87">DICT NUEVA VIZCAYA · NEXT.JS · NESTJS · TYPESCRIPT · POSTGRESQL · PRISMA</text>
+      <line class="rule" x1="48" y1="104" x2="952" y2="104"/>
+    </g>
+    <g class="row r5" transform="translate(0 460)">
+      <text class="title" x="48" y="24">05 / AUTOMATED PROGRAMMABLE SCHOOL BELL SYSTEM</text>
+      <text class="copy" x="48" y="49">Programmed a Raspberry Pi controller with a Tkinter interface for daily and emergency bell schedules.</text>
+      <text class="copy" x="48" y="68">Set up relay control, saved schedules, and configured the hardware and real-time clock.</text>
+      <text class="meta" x="48" y="87">EMBEDDED SYSTEMS · PYTHON · TKINTER · RASPBERRY PI 4 · RPI.GPIO</text>
+      <line class="rule" x1="48" y1="104" x2="952" y2="104"/>
+    </g>
+  </g>
+</svg>
