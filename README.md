@@ -95,10 +95,10 @@ Here are the tools and technologies I have practical experience with:
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
   </a>
 
-  <br>
-
-  <p align="center">
-  <img src="./github-metrics.svg" alt="My GitHub Metrics" width="100%">
-</p>
-
 </div>
+
+### GitHub Activity & Languages
+
+<p align="center">
+  <img src="./github-metrics.svg" alt="Six-month GitHub contribution graph and programming language breakdown">
+</p>
