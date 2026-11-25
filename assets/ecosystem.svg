@@ -46,7 +46,7 @@
 
   <line x1="48" y1="40" x2="952" y2="40" stroke="var(--rule)"/>
   <text fill="var(--muted)" class="mono" x="48" y="28" font-size="11" letter-spacing="3.5">PROJECTS &amp; PRACTICE</text>
-  <text fill="var(--muted)" class="mono" x="952" y="28" font-size="11" letter-spacing="3.5" text-anchor="end">FIG. 01</text>
+  <text fill="var(--muted)" class="mono" x="952" y="28" font-size="11" letter-spacing="3.5" text-anchor="end">FIG. 03</text>
 
   <!-- wires -->
   <g mask="url(#node-cutouts)">
