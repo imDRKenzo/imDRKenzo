@@ -10,7 +10,6 @@
     @keyframes reveal { from { opacity:0; } to { opacity:1; } }
     .r1{animation-delay:.05s}.r2{animation-delay:.10s}.r3{animation-delay:.15s}.r4{animation-delay:.20s}.r5{animation-delay:.25s}
     @media (prefers-reduced-motion:reduce) { .row { animation:none; opacity:1; } }
-    :root { --ink:#000000; --paper:#FFFFFF; }
   </style>
 
   <g class="mono">
